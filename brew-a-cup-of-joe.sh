@@ -30,7 +30,7 @@ brew install --cask github
 echo "Installing Flameshot screen..."
 brew install --cask flameshot
 
-if [ $backend = "y" ] || then
+if [ $backend = "y" ] then
 
     echo "Installing Visual Studio Code..."
     brew install --cask visual-studio-code
